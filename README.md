@@ -2,7 +2,7 @@
 
 PDF ve HTML e-Arşiv/e-Fatura dosyalarına otomatik kaşe/imza basan basit masaüstü uygulaması.
 
-Uygulama özellikle GİB/e-Arşiv ve pazaryeri faturalarında, kaşe/imza görselini faturanın belirlenen yerine otomatik yerleştirmek için hazırlanmıştır.
+Uygulama özellikle GİB/e-Arşiv ve pazaryeri faturalarında, kaşe/imza görselini faturanın belirlenen yerine otomatik yerleştirmek için hazırlanmıştır. (Şu anki konum uygundur dilerseniz arayüzden değiştirebilirsiniz.)
 
 ## Özellikler
 
